@@ -4,7 +4,7 @@ These sessions will introduce the building blocks of the processes that are need
 
 
 ## Week 0
-* Introduction to Jupyter notebooks. Please clone the following [repo:]{ https://github.com/e184633/jupyter_workshop_NU} and install [anaconda.org](https://software.intel.com/en-us/distribution-for-python/choose-download) or intel distribution.
+* Introduction to Jupyter notebooks. Please clone the following [repo:](https://github.com/e184633/jupyter_workshop_NU) and install [anaconda.org](https://software.intel.com/en-us/distribution-for-python/choose-download) or intel distribution.
 
 ## Week 1
 * Introduction to Python dictionaries, pandas/numpy
